@@ -1,59 +1,72 @@
-# <p align="center"> <img src="https://capsule-render.vercel.app/canvas?type=waving&color=00d2ff&customColorList=10&height=200&section=header&text=Selam,%20Ben%20Enes!&fontSize=70&animation=fadeIn" /> </p>
+# <p align="center"> <img src="https://capsule-render.vercel.app/canvas?type=soft&color=auto&height=200&section=header&text=Enes%20Portfolio&fontSize=70&animation=twinkling" /> </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Yazılım+Geliştirici;Problem+Çözücü;Sürekli+Öğrenen+Bir+Developer;Açık+Kaynak+Tutkunu" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=enes1517&theme=radical&no-frame=true&column=7" alt="github trophies" />
+  <a href="https://github.com/enes1517">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+Candidate;Open+Source+Enthusiast;Problem+Solver+%26+Lifelong+Learner" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
-### 🚀 Hakkımda
-
-- ⚡ **Odak Noktam:** Kullanıcı dostu ve performanslı uygulamalar geliştirmek.
-- 🔭 **Şu Anda:** Portfolyomu genişletiyor ve yeni teknolojilerle denemeler yapıyorum.
-- 🌱 **Öğreniyorum:** Modern mimariler ve ileri seviye algoritma çözümleri.
-- 📫 **Bana Ulaşın:** Projeleriniz veya iş birliği için her zaman mesaj atabilirsiniz!
+### 📝 Hakkımda (Özet)
+Sana daha önce verdiğim yanıtlardan ve ilgi alanlarından yola çıkarak:
+- 🔭 **Neler Yapıyorum:** Karmaşık problemleri basit kod bloklarına dönüştürmeyi seviyorum. Şu an ana odak noktam backend mimarileri ve verimlilik.
+- 🚀 **Vizyonum:** Sadece kod yazmak değil, sürdürülebilir ve temiz (clean code) projeler üretmek.
+- 📚 **Sürekli Öğrenme:** Her gün yeni bir kütüphane veya metodoloji deneyerek ufkumu genişletiyorum.
 
 ---
 
-### 🛠️ Yeteneklerim & Araçlar
+### 💻 Teknoloji Çantası (Tech Stack)
+
+| Kategori | Araçlar ve Diller |
+| :--- | :--- |
+| **Diller** | `Python`, `Java`, `JavaScript`, `SQL` |
+| **Frontend** | `HTML5`, `CSS3`, `React.js`, `Bootstrap` |
+| **Backend** | `Node.js`, `Spring Boot` (veya Flask/Django) |
+| **Araçlar** | `Git`, `Docker`, `Postman`, `VS Code` |
+
+<br/>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=py,java,js,react,nodejs,html,css,git,docker,mysql,postman,vscode&theme=dark" />
 </p>
 
 ---
 
-### 📊 GitHub Karnem
+### 📊 GitHub İstatistiklerim (Dinamik)
+
+<table border="0">
+ <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=enes1517&show_icons=true&theme=tokyonight&count_private=true" alt="Enes Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enes1517&layout=compact&theme=tokyonight" alt="Top Langs" />
+    </td>
+ </tr>
+</table>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enes1517&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enes1517&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enes1517&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enes1517&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🤝 Bağlantı Kuralım
+### 🛠️ Öne Çıkan Çalışmalarım
+*Burası senin vitrinin, en çok soru sorduğun veya üzerinde durduğun 2 projeyi buraya ekle:*
 
+1.  **[Proje Adı 1]**: Bu projede [X] problemini [Y] teknolojisini kullanarak çözdüm. 
+2.  **[Proje Adı 2]**: [Z] API'larını entegre ederek oluşturduğum bir otomasyon/web aracı.
+
+---
+
+### 📬 Benimle İletişim Kur
 <p align="left">
-<a href="https://linkedin.com/in/enes1517" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:eposta-adresin@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:seninmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/enes1517"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/kullaniciadin"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=enes1517&color=00d2ff&style=flat-square&label=PROFIL+GÖRÜNTÜLENME" alt="enes1517" />
+  <img src="https://komarev.com/ghpvc/?username=enes1517&color=blue&style=flat-square&label=Profil+Ziyareti" alt="visitor count" />
 </p>
