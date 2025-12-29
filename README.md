@@ -19,7 +19,7 @@ Ben, yazılımın farklı katmanlarında kendimi geliştirmeyi seven çok yönl�
 ### 🛠️ Yeteneklerim & Araçlar
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cs,dotnet,visualstudio,mysql,mongodb,sqlite,py,js,html,css,git,vscode,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cs,dotnet,visualstudio,mysql,mongodb,sqlite,swagger,js,html,css,git,vscode,postman&theme=dark" />
 </p>
 
 ---
