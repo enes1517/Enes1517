@@ -1,11 +1,6 @@
-# <p align="center"> <img src="https://capsule-render.vercel.app/canvas?type=waving&color=0172B2&customColorList=10&height=220&section=header&text=Selam,%20Ben%20Enes!&fontSize=70&animation=fadeIn" /> </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0172B2&center=true&vCenter=true&width=500&lines=Backend+%26+Desktop+Developer;C%23+%2F+.NET+Core+Specialist;C+Language+%26+Algorithms;SQL+%26+NoSQL+Database+Expert" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=enes1517&theme=radical&no-frame=true&column=7" alt="github trophies" />
 </p>
 
 ---
