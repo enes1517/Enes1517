@@ -19,7 +19,7 @@ Ben **Hüseyin Enes İpek**, yazılımın farklı katmanlarında kendimi gelişt
 ### 🛠️ Yeteneklerim & Araçlar
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cs,dotnet,visualstudio,mysql,mongodb,sqlite,swagger,js,html,css,git,vscode,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cs,dotnet,visualstudio,mysql,mongodb,sqlite,js,html,css,git,vscode,postman&theme=dark" />
 </p>
 
 ---
@@ -39,13 +39,6 @@ Ben **Hüseyin Enes İpek**, yazılımın farklı katmanlarında kendimi gelişt
 
 ---
 
-### 🐍 Katkı Yolculuğum (Contribution Activity)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/enes1517/enes1517/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
 
 ### 🚀 Teknik Yetkinliklerim
 
