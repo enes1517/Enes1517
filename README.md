@@ -41,11 +41,15 @@ Ben, yazılımın farklı katmanlarında kendimi geliştirmeyi seven çok yönl�
 
 ---
 
-### 📊 Dil Dağılımı ve İstikrar (Stats)
+### 📊 GitHub Gelişim Özetim
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enes1517&layout=compact&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=enes1517&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enes1517&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enes1517&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enes1517&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
