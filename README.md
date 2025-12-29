@@ -9,7 +9,7 @@
 
 Ben **Hüseyin Enes İpek**, yazılımın farklı katmanlarında kendimi geliştirmeyi seven çok yönlü bir geliştiriciyim. Ana odak noktam **C#** ekosisteminde güçlü backend sistemleri geliştirmektir. Bunun yanı sıra masaüstü uygulamaları ve C dili ile algoritma çalışmaları da yapıyorum.
 
-- 🚀 **Web & Backend:** ASP.NET Core Web API ve MVC ile modern mimariler.
+- 🚀 **Web & Backend:** ASP.NET Core Web API ve MVC ile modern mimariler(katmanlı mimari).
 - 🖥️ **Masaüstü:** C# WinForms/WPF kullanarak kurumsal çözümler ve araçlar.
 - ⚙️ **Sistem & Algoritma:** C dili ile performans odaklı düşük seviyeli kodlama çalışmaları.
 - 🗄️ **Veri Tabanı:** SQL Server, SQLite ve NoSQL (MongoDB) ile veri yönetimi.
@@ -27,7 +27,7 @@ Ben **Hüseyin Enes İpek**, yazılımın farklı katmanlarında kendimi gelişt
 ### 🌟 Öne Çıkan Projelerim
 
 #### 🌐 Web & Backend
-* **⚙️ ASP.NET Web API:** RESTful standartlarında, **Swagger** ile dökümante edilmiş, güvenli ve ölçeklenebilir backend sistemleri.
+* **⚙️ ASP.NET Web API:** RESTful standartlarında, **Swagger** ile test edilmiş, güvenli ve ölçeklenebilir backend sistemleri.
 * **🏢 ASP.NET MVC Apps:** Dinamik içerik yönetimi ve kurumsal web uygulamaları.
 
 #### 🖥️ Masaüstü (C#)
@@ -45,7 +45,7 @@ Ben **Hüseyin Enes İpek**, yazılımın farklı katmanlarında kendimi gelişt
 | Alan | Seviye | Teknolojiler |
 | :--- | :---: | :--- |
 | **Backend** | 🟦🟦🟦🟦⬜ | C#, ASP.NET Core, Web API, Swagger |
-| **Desktop** | 🟦🟦🟦⬜⬜ | WinForms, WPF, C# |
+| **Desktop** | 🟦🟦🟦⬜⬜ | WinForms, C# |
 | **Database**| 🟦🟦🟦⬜⬜ | MS SQL, MongoDB, SQLite |
 | **System** | 🟦🟦⬜⬜⬜ | C Language, Data Structures |
 
