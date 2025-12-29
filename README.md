@@ -1,13 +1,18 @@
+# <p align="center"> <img src="https://capsule-render.vercel.app/canvas?type=waving&color=0172B2&customColorList=10&height=220&section=header&text=Selam,%20Ben%20Enes!&fontSize=70&animation=fadeIn" /> </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0172B2&center=true&vCenter=true&width=500&lines=Backend+%26+Desktop+Developer;C%23+%2F+.NET+Core+Specialist;C+Language+%26+Algorithms;SQL+%26+NoSQL+Database+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0172B2&center=true&vCenter=true&width=500&lines=Backend+%26+Developer;C%23+%2F+.NET+Core;C+Language+%26+Algorithms;SQL+%26+NoSQL+Database+Expert" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=enes1517&theme=radical&no-frame=true&column=7" alt="github trophies" />
 </p>
 
 ---
 
 ### 👨‍💻 Hakkımda
 
-Ben, yazılımın farklı katmanlarında kendimi geliştirmeyi seven çok yönlü bir geliştiriciyim. **C#** ekosisteminde güçlü backend sistemleri ve kullanıcı dostu masaüstü uygulamaları geliştirirken, **C** dili ile algoritma mantığının temellerine odaklanıyorum.
+Ben **Hüseyin Enes İpek**, yazılımın farklı katmanlarında kendimi geliştirmeyi seven çok yönlü bir geliştiriciyim. **C#** ekosisteminde güçlü backend sistemleri ve kullanıcı dostu masaüstü uygulamaları geliştirirken, **C** dili ile algoritma mantığının temellerine odaklanıyorum.
 
 - 🚀 **Web & Backend:** ASP.NET Core Web API ve MVC ile modern mimariler.
 - 🖥️ **Masaüstü:** C# WinForms/WPF kullanarak kurumsal çözümler ve araçlar.
@@ -27,22 +32,31 @@ Ben, yazılımın farklı katmanlarında kendimi geliştirmeyi seven çok yönl�
 ### 🌟 Öne Çıkan Projelerim
 
 #### 🌐 Web & Backend
-* **⚙️ ASP.NET Web API:** RESTful standartlarında, güvenli ve ölçeklenebilir backend sistemleri.
+* **⚙️ ASP.NET Web API:** RESTful standartlarında, **Swagger** ile dökümante edilmiş, güvenli ve ölçeklenebilir backend sistemleri.
 * **🏢 ASP.NET MVC Apps:** Dinamik içerik yönetimi ve kurumsal web uygulamaları.
 
 #### 🖥️ Masaüstü (C#)
 * **💼 Desktop Management Systems:** Veritabanı entegreli otomasyonlar ve yönetim panelleri.
 * **🛠️ Custom Tools:** Masaüstü platformu için geliştirilmiş yardımcı yazılımlar.
 
-
+#### 🏗️ Sistem & Algoritma (C)
+* **🧩 Logic & Algorithms:** C dili ile yazılmış veri yapıları ve karmaşık problem çözümleri.
 
 ---
 
-### 🚀 Mevcut Teknoloji Odaklarım
+### 🐍 Katkı Yolculuğum (Contribution Activity)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/enes1517/enes1517/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+### 🚀 Teknik Yetkinliklerim
 
 | Alan | Seviye | Teknolojiler |
 | :--- | :---: | :--- |
-| **Backend** | 🟦🟦🟦🟦⬜ | C#, ASP.NET Core, Web API |
+| **Backend** | 🟦🟦🟦🟦⬜ | C#, ASP.NET Core, Web API, Swagger |
 | **Desktop** | 🟦🟦🟦⬜⬜ | WinForms, WPF, C# |
 | **Database**| 🟦🟦🟦⬜⬜ | MS SQL, MongoDB, SQLite |
 | **System** | 🟦🟦⬜⬜⬜ | C Language, Data Structures |
@@ -52,8 +66,8 @@ Ben, yazılımın farklı katmanlarında kendimi geliştirmeyi seven çok yönl�
 ### 🤝 Bağlantı Kuralım
 
 <p align="left">
-  <a href="https://linkedin.com/in/enes1517" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:eposta-adresin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/h%C3%BCseyin-enes-ipek-0b4a49288/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:huseyinenesipek@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="right">
