@@ -41,10 +41,11 @@ Ben, yazılımın farklı katmanlarında kendimi geliştirmeyi seven çok yönl�
 
 ---
 
-### 🐍 Katkı Yolculuğum (Activity Stream)
+### 📊 Dil Dağılımı ve İstikrar (Stats)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=enes1517&theme=react-dark&bg_color=0D1117&hide_border=true&color=0172B2" width="100%" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enes1517&layout=compact&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=enes1517&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
