@@ -1,7 +1,7 @@
 # <p align="center"> <img src="https://capsule-render.vercel.app/canvas?type=waving&color=0172B2&customColorList=10&height=220&section=header&text=Selam,%20Ben%20Enes!&fontSize=70&animation=fadeIn" /> </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0172B2&center=true&vCenter=true&width=500&lines=Backend+Developer+Candidate;.NET+Core+%26+C%23+Developer;ASP.NET+Web+API+%26+MVC;Problem+Solver+%26+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0172B2&center=true&vCenter=true&width=500&lines=Backend+%26+Desktop+Developer;C%23+%2F+.NET+Core+Specialist;C+Language+%26+Algorithms;SQL+%26+NoSQL+Database+Expert" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,31 +12,37 @@
 
 ### 👨‍💻 Hakkımda
 
-GitHub hesabımdaki projelerden de görebileceğiniz gibi, kendimi sürekli geliştiren bir geliştiriciyim. Şu an odak noktamı **Backend Web Geliştirme** süreçlerine çevirmiş durumdayım. C# ekosisteminde ölçeklenebilir mimariler ve performanslı API'lar geliştirmeye odaklanıyorum.
+Ben, yazılımın farklı katmanlarında kendimi geliştirmeyi seven çok yönlü bir geliştiriciyim. **C#** ekosisteminde güçlü backend sistemleri ve kullanıcı dostu masaüstü uygulamaları geliştirirken, **C** dili ile algoritma mantığının temellerine odaklanıyorum.
 
-- 🚀 **Nelerle Uğraşıyorum:** ASP.NET Core Web API, MVC mimarisi ve kurumsal yazılım desenleri.
-- 🔭 **Şu Anda:** Mikroservis mimarileri ve gelişmiş veri tabanı yönetimi üzerine projeler geliştiriyorum.
-- 🌱 **Öğreniyorum:** .NET tarafında derinleşmek, Design Patterns ve SOLID prensiplerini en iyi şekilde uygulamak.
-- 💬 **Bana Sorun:** ASP.NET projeleri, API entegrasyonları, SQL ve NoSQL veritabanı çözümleri hakkında konuşabiliriz.
+- 🚀 **Web & Backend:** ASP.NET Core Web API ve MVC ile modern mimariler.
+- 🖥️ **Masaüstü:** C# WinForms/WPF kullanarak kurumsal çözümler ve araçlar.
+- ⚙️ **Sistem & Algoritma:** C dili ile performans odaklı düşük seviyeli kodlama çalışmaları.
+- 🗄️ **Veri Tabanı:** SQL Server, SQLite ve NoSQL (MongoDB) ile veri yönetimi.
+- 🌱 **Öğreniyorum:** Yazılım mimarileri, Design Patterns ve temiz kod prensipleri.
 
 ---
 
 ### 🛠️ Yeteneklerim & Araçlar
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,react,mysql,mongodb,sqlite,git,vscode,visualstudio,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cs,dotnet,visualstudio,mysql,mongodb,sqlite,py,js,html,css,git,vscode,postman&theme=dark" />
 </p>
 
 ---
 
-### 🌟 Öne Çıkan Backend Projelerim
+### 🌟 Öne Çıkan Projelerim
 
-GitHub'ımdaki en dikkat çeken çalışmalardan bazıları:
+#### 🌐 Web & Backend
+* **⚙️ ASP.NET Web API:** RESTful standartlarında, güvenli ve ölçeklenebilir backend sistemleri.
+* **🏢 ASP.NET MVC Apps:** Dinamik içerik yönetimi ve kurumsal web uygulamaları.
 
-* **⚙️ ASP.NET Web API Project:** RESTful standartlarına uygun, güvenli ve performanslı backend servisleri.
-* **🌐 ASP.NET MVC Web Application:** Modern ve dinamik web arayüzleri ile entegre backend çözümleri.
-* **🗄️ Database Management:** SQL Server, SQLite ve MongoDB kullanarak optimize edilmiş veri modelleme çalışmaları.
+#### 🖥️ Masaüstü (C#)
+* **💼 Desktop Management Systems:** Veritabanı entegreli otomasyonlar ve yönetim panelleri.
+* **🛠️ Custom Tools:** Masaüstü platformu için geliştirilmiş yardımcı yazılımlar.
 
+#### 🏗️ Sistem & Algoritma (C)
+* **🧩 Logic & Algorithms:** C dili ile yazılmış veri yapıları ve karmaşık problem çözümleri.
+* **💾 System Programming:** Bellek yönetimi ve temel sistem fonksiyonları üzerine çalışmalar.
 
 ---
 
