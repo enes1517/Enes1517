@@ -18,7 +18,6 @@ Ben, yazılımın farklı katmanlarında kendimi geliştirmeyi seven çok yönl�
 - 🖥️ **Masaüstü:** C# WinForms/WPF kullanarak kurumsal çözümler ve araçlar.
 - ⚙️ **Sistem & Algoritma:** C dili ile performans odaklı düşük seviyeli kodlama çalışmaları.
 - 🗄️ **Veri Tabanı:** SQL Server, SQLite ve NoSQL (MongoDB) ile veri yönetimi.
-- 🌱 **Öğreniyorum:** Yazılım mimarileri, Design Patterns ve temiz kod prensipleri.
 
 ---
 
@@ -40,22 +39,28 @@ Ben, yazılımın farklı katmanlarında kendimi geliştirmeyi seven çok yönl�
 * **💼 Desktop Management Systems:** Veritabanı entegreli otomasyonlar ve yönetim panelleri.
 * **🛠️ Custom Tools:** Masaüstü platformu için geliştirilmiş yardımcı yazılımlar.
 
-#### 🏗️ Sistem & Algoritma (C)
-* **🧩 Logic & Algorithms:** C dili ile yazılmış veri yapıları ve karmaşık problem çözümleri.
-* **💾 System Programming:** Bellek yönetimi ve temel sistem fonksiyonları üzerine çalışmalar.
+---
+
+### 🐍 Katkı Yolculuğum (Activity Stream)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=enes1517&theme=react-dark&bg_color=0D1117&hide_border=true&color=0172B2" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/enes1517/enes1517/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
-### 📊 GitHub Karnem (Canlı Veri)
+### 🚀 Mevcut Teknoloji Odaklarım
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enes1517&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enes1517&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enes1517&theme=radical&hide_border=true" />
-</p>
+| Alan | Seviye | Teknolojiler |
+| :--- | :---: | :--- |
+| **Backend** | 🟦🟦🟦🟦⬜ | C#, ASP.NET Core, Web API |
+| **Desktop** | 🟦🟦🟦⬜⬜ | WinForms, WPF, C# |
+| **Database**| 🟦🟦🟦⬜⬜ | MS SQL, MongoDB, SQLite |
+| **System** | 🟦🟦⬜⬜⬜ | C Language, Data Structures |
 
 ---
 
