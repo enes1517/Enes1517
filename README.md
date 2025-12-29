@@ -1,7 +1,7 @@
 # <p align="center"> <img src="https://capsule-render.vercel.app/canvas?type=waving&color=0172B2&customColorList=10&height=220&section=header&text=Selam,%20Ben%20Enes!&fontSize=70&animation=fadeIn" /> </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0172B2&center=true&vCenter=true&width=500&lines=Backend+%26+Developer;C%23+%2F+.NET+Core;C+Language+%26+Algorithms;SQL+%26+NoSQL+Database+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=0172B2&center=true&vCenter=true&width=500&lines=Backend+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ### 👨‍💻 Hakkımda
 
-Ben **Hüseyin Enes İpek**, yazılımın farklı katmanlarında kendimi geliştirmeyi seven çok yönlü bir geliştiriciyim. **C#** ekosisteminde güçlü backend sistemleri ve kullanıcı dostu masaüstü uygulamaları geliştirirken, **C** dili ile algoritma mantığının temellerine odaklanıyorum.
+Ben **Hüseyin Enes İpek**, yazılımın farklı katmanlarında kendimi geliştirmeyi seven çok yönlü bir geliştiriciyim. Ana odak noktam **C#** ekosisteminde güçlü backend sistemleri geliştirmektir. Bunun yanı sıra masaüstü uygulamaları ve C dili ile algoritma çalışmaları da yapıyorum.
 
 - 🚀 **Web & Backend:** ASP.NET Core Web API ve MVC ile modern mimariler.
 - 🖥️ **Masaüstü:** C# WinForms/WPF kullanarak kurumsal çözümler ve araçlar.
@@ -32,7 +32,7 @@ Ben **Hüseyin Enes İpek**, yazılımın farklı katmanlarında kendimi gelişt
 ### 🌟 Öne Çıkan Projelerim
 
 #### 🌐 Web & Backend
-* **⚙️ ASP.NET Web API:** RESTful standartlarında, **Swagger** ile dökümante edilmiş, güvenli ve ölçeklenebilir backend sistemleri.
+* **⚙️ ASP.NET Web API:** RESTful standartlarında, **Swagger** ile test edilmiş, güvenli ve ölçeklenebilir backend sistemleri.
 * **🏢 ASP.NET MVC Apps:** Dinamik içerik yönetimi ve kurumsal web uygulamaları.
 
 #### 🖥️ Masaüstü (C#)
