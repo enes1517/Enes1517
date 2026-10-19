@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=007ACC&center=true&vCenter=true&width=650&lines=Hi+There!+I'm+H%C3%BCseyin+Enes+%C4%B0pek+%F0%9F%91%8B;Full-Stack+.NET+%26+Microservices+Developer;C%23+%7C+ASP.NET+Core+%7C+Angular+%7C+React" alt="Typing SVG" />
 
   <p align="center">
-    <b>Dağıtık mimariler, modern backend ekosistemleri ve performans odaklı algoritmik çözümler üreten yazılım geliştirici.</b>
+    <b>Dağıtık mimariler, modern backend ekosistemleri, yapay zeka ve cross-platform çözümler üreten yazılım geliştirici.</b>
   </p>
 
   <p align="center">
@@ -19,52 +19,74 @@
 
 ### 👨‍💻 Hakkımda
 
-Merhaba! Ben **Hüseyin Enes İpek**. Algoritma temellerinden modern dağıtık mimarilere uzanan geniş bir yelpazede ölçeklenebilir, test edilebilir ve sürdürülebilir sistemler geliştiriyorum. 
+Merhaba! Ben **Hüseyin Enes İpek**. Dağıtık mikroservis mimarilerinden yapay zeka ve modern web/mobil platformlarına uzanan geniş bir yelpazede ölçeklenebilir, test edilebilir ve kurumsal standartlara uygun sistemler geliştiriyorum.
 
-- 🚀 **Dağıtık Sistemler & Backend:** **.NET** ekosisteminde Mikroservis mimarileri, Clean Architecture, CQRS, Event-Driven desenler ve RESTful Web API çözümleri.
-- 🎨 **Full-Stack Entegrasyon:** Güçlü API altyapılarını modern frontend teknolojileri (**Angular** ve **React**) ile buluşturan uçtan uca uygulamalar.
-- ⚙️ **Düşük Seviye & Algoritmalar:** **C** dili ile dinamik bellek yönetimi, **OpenGL** ile simülasyon/görselleştirme ve **Graf Teorisi (Dijkstra)** gibi karmaşık problem çözümleri.
-- 🗄️ **Veri Mimarisi & Önbellekleme:** İlişkisel (SQL Server, PostgreSQL, SQLite) ve NoSQL/Cache (MongoDB, Redis) çözümleri ile optimize veri akışları.
+- 🚀 **Dağıtık Sistemler & Backend:** **.NET** ekosisteminde Mikroservis mimarileri, Clean Architecture, CQRS, Event-Driven desenler (RabbitMQ) ve RESTful API çözümleri.
+- 🎨 **Full-Stack & Mobil:** Güçlü API altyapılarını modern web (**Angular, React**) ve mobil (**Flutter, React Native**) arayüzleriyle buluşturan uçtan uca uygulamalar.
+- 🧠 **Yapay Zeka & Görüntü İşleme:** Derin öğrenme tabanlı nesne/görüntü sınıflandırma ve NLP destekli akıllı veri filtreleme sistemleri.
+- 🗄️ **Veri Mimarisi & Önbellekleme:** İlişkisel (SQL Server, PostgreSQL) ve NoSQL/Cache (MongoDB, Redis) veritabanları ile yüksek performanslı veri yönetimi.
 
 ---
 
 ### 🛠️ Teknolojiler & Yetenekler
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,c,python,angular,react,ts,js,html,css,postgres,mysql,mongodb,redis,sqlite,docker,git,github,postman,visualstudio,vscode&perline=11&theme=dark" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,react,flutter,dart,python,ts,js,html,css,postgres,mongodb,redis,rabbitmq,docker,git,github,postman,visualstudio,vscode&perline=11&theme=dark" alt="Tech Stack Icons" />
 </div>
 
 <br/>
 
 | Kategori | Teknolojiler & Mimariler |
 | :--- | :--- |
-| **Backend & Mimariler** | C#, .NET 8/10, ASP.NET Core Web API, MVC, Microservices, Clean Architecture, CQRS, MediatR, EF Core |
-| **Frontend & UI** | Angular, React, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS |
-| **Veri Tabanı & Cache** | MS SQL Server, PostgreSQL, MongoDB, Redis, SQLite |
-| **Sistem & Algoritmalar** | C Dili, OpenGL (GLUT), Graph Algorithms (Dijkstra), Dynamic Programming, Python |
-| **DevOps & Araçlar** | Docker, Git, GitHub Actions, Postman, Swagger, Visual Studio, VS Code |
+| **Backend & Mimariler** | C#, .NET 8/10, ASP.NET Core Web API, Microservices, Clean Architecture, CQRS, MediatR, EF Core |
+| **Frontend & Mobil** | Angular, React, Flutter (Dart), React Native (Expo), TypeScript, Tailwind CSS |
+| **Mesajlaşma & Kuyruk**| RabbitMQ (Event-Driven Dağıtık İletişim, Publisher/Subscriber) |
+| **Veri Tabanı & Cache** | MS SQL Server, PostgreSQL, MongoDB, Redis (In-Memory), SQLite |
+| **Yapay Zeka & Analiz**| Python, Derin Öğrenme (CNN / Görüntü İşleme), Pandas, REST Entegrasyonları |
+| **DevOps & Araçlar** | Docker, Docker-Compose, Git, GitHub Actions, Keycloak, Postman, Swagger |
 
 ---
 
 ### 🌟 Öne Çıkan Projelerim
 
 <table>
+  <!-- Satır 1: Dağıtık Mikroservis Sistemleri -->
   <tr>
     <td width="50%" valign="top">
       <h3>🏢 <a href="https://github.com/enes1517/RentFlow_Microservice_Project">RentFlow — Dağıtık Kira Yönetim Sistemi</a></h3>
-      <p>Ölçeklenebilir, dağıtık ve asenkron iletişim altyapısına sahip akıllı kurumsal kiralama platformu.</p>
+      <p>Ölçeklenebilir, asenkron ve dağıtık mikroservis altyapısına sahip akıllı kurumsal kiralama platformu.</p>
       <p>
         <img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
         <img src="https://img.shields.io/badge/Microservices-007ACC?style=flat-square" />
         <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+        <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       </p>
       <ul>
-        <li>Ocelot API Gateway ve servisler arası bağımsız mikroservis yapısı</li>
-        <li>Clean Architecture & CQRS deseni ile sürdürülebilir kod tabanı</li>
-        <li>Docker konteynerizasyonu ve modern Angular arayüzü</li>
+        <li>Ocelot API Gateway ve bağımsız çalışan mikroservis mimarisi</li>
+        <li>Clean Architecture & CQRS (MediatR) tasarım desenleri</li>
+        <li>Keycloak ile merkezi kimlik doğrulama & Docker Compose konteynerizasyonu</li>
       </ul>
     </td>
+    <td width="50%" valign="top">
+      <h3>🗺️ <a href="https://github.com/enes1517/Urban_News_Monitoring_Project">Kentsel Haber İzleme Sistemi</a></h3>
+      <p>Yerel haberleri gerçek zamanlı toplayan, yapay zeka ile sınıflandırıp harita üzerinde konumlandıran mikroservis platformu.</p>
+      <p>
+        <img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
+      </p>
+      <ul>
+        <li>Gerçek zamanlı web scraping ve event-driven RabbitMQ veri kuyruğu</li>
+        <li>Haberlerin AI ile kategori ve konum bazlı analiz edilmesi</li>
+        <li>Google Maps API ile interaktif kentsel haber görselleştirme</li>
+      </ul>
+    </td>
+  </tr>
+
+  <!-- Satır 2: Web & Cross-Platform Uygulamaları -->
+  <tr>
     <td width="50%" valign="top">
       <h3>📚 <a href="https://github.com/enes1517/Social_Library_.Net_React">Sosyal Kütüphane Platformu</a></h3>
       <p>Kitap ve film meraklılarını bir araya getiren sosyal kataloglama, inceleme ve etkileşim platformu.</p>
@@ -75,69 +97,58 @@ Merhaba! Ben **Hüseyin Enes İpek**. Algoritma temellerinden modern dağıtık 
         <img src="https://img.shields.io/badge/MSSQL-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
       </p>
       <ul>
-        <li>N-Tier (Çok Katmanlı) kurumsal mimari</li>
-        <li>JWT tabanlı güvenli kimlik doğrulama & yetkilendirme</li>
+        <li>N-Tier (Çok Katmanlı) kurumsal backend mimarisi</li>
+        <li>JWT tabanlı güvenli kimlik doğrulama & rol bazlı yetkilendirme</li>
         <li>React & Redux ile akıcı ve reaktif kullanıcı deneyimi</li>
       </ul>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <h3>🗺️ <a href="https://github.com/enes1517/Ulasim-Rota-Planlama-Sistemi">Ulaşım Rota Planlama Sistemi</a></h3>
-      <p>Duraklar ve lojistik ağlar arasında en optimum rotayı hesaplayan algoritmik masaüstü yazılımı.</p>
+      <h3>💡 <a href="https://github.com/enes1517/TRtek-Ideapool">TrTek Fikir Havuzu (Idea Pool)</a></h3>
+      <p>Şirket içi çalışanların fikir önerip oylayabildiği modern ve dinamik çapraz platform kurumsal sistem.</p>
       <p>
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
-        <img src="https://img.shields.io/badge/WinForms-512BD4?style=flat-square" />
-        <img src="https://img.shields.io/badge/Dijkstra_Algorithm-F7931E?style=flat-square" />
-        <img src="https://img.shields.io/badge/Graph_Theory-00599C?style=flat-square" />
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/.NET_API-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/Cross--Platform-28A745?style=flat-square" />
       </p>
       <ul>
-        <li>Dijkstra Graf Algoritması ile en kısa ve en az maliyetli rota bulma</li>
-        <li>Toplu taşıma ve küçük ölçekli lojistik ağ optimizasyonu</li>
-        <li>Kullanıcı dostu interaktif masaüstü kontrol paneli</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚔️ <a href="https://github.com/enes1517/War-Simulation-Project">2D Savaş Simülasyonu</a></h3>
-      <p>C dili ve OpenGL ile geliştirilmiş, 2 ırkın çarpışmasını algoritmik olarak canlandıran simülasyon motoru.</p>
-      <p>
-        <img src="https://img.shields.io/badge/C_Language-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-        <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white" />
-        <img src="https://img.shields.io/badge/Memory_Management-FF6B6B?style=flat-square" />
-      </p>
-      <ul>
-        <li>GLUT/OpenGL ile gerçek zamanlı 2D ızgara görselleştirmesi</li>
-        <li>Dinamik bellek yönetimi (malloc/free) ve optimize veri yapıları</li>
-        <li>Adım adım simülasyon yürütme ve detaylı durum loglama</li>
+        <li>N-Tier Architecture (API, Services, Repositories katmanları)</li>
+        <li>Çoklu platform desteği ile şirket içi fikir & oylama mekanizması</li>
+        <li>Rol tabanlı yönetim ve dinamik değerlendirme paneli</li>
       </ul>
     </td>
   </tr>
+
+  <!-- Satır 3: Yapay Zeka & Oyun/Mobil Algoritmaları -->
   <tr>
     <td width="50%" valign="top">
-      <h3>📅 <a href="https://github.com/enes1517/Dynamic_Exam_Schedule_Creation_System">Dinamik Sınav Çizelgeleme Sistemi</a></h3>
-      <p>Öğrenci ve salon kısıtlarını gözeterek otomatik sınav takvimi ve oturma planı oluşturan yazılım.</p>
+      <h3>🚗 <a href="https://github.com/enes1517/car_body_type_classifier">Araç Gövde Tipi Sınıflandırıcı</a></h3>
+      <p>Görüntü işleme ve derin öğrenme ile araç kasalarını (Sedan, SUV, Hatchback vb.) tespit eden yapay zeka sistemi.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/PyQt5-41CD52?style=flat-square&logo=qt&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
       </p>
       <ul>
-        <li>Çakışma önleyici akıllı optimizasyon algoritmaları</li>
-        <li>Excel dosya ayrıştırma ve otomatik PDF raporlama</li>
+        <li>Model eğitimi ve test süreçlerini içeren uçtan uca AI boru hattı (pipeline)</li>
+        <li>FastAPI REST API üzerinden gerçek zamanlı tahmin motoru</li>
+        <li>ASP.NET Core ve modern web arayüzü ile tam entegrasyon</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🩺 <a href="https://github.com/enes1517/Diabetes-System-Mvc">Diyabet Takip & Yönetim Sistemi</a></h3>
-      <p>Hasta glukoz ölçümlerini, randevularını ve medikal geçmişini takip eden web yönetim paneli.</p>
+      <h3>🧩 <a href="https://github.com/enes1517/Word_Crush_Project">Word Crush — Akıllı Mobil Kelime Oyunu</a></h3>
+      <p>Harf kombinasyonları, kombolar, yerçekimi simülasyonu ve market mekanikleri barındıran bulmaca oyunu.</p>
       <p>
-        <img src="https://img.shields.io/badge/ASP.NET_Core_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-        <img src="https://img.shields.io/badge/EF_Core-239120?style=flat-square" />
-        <img src="https://img.shields.io/badge/MS_SQL-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+        <img src="https://img.shields.io/badge/C%23_.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/In--Memory_Cache-007ACC?style=flat-square" />
+        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
       </p>
       <ul>
-        <li>Rol bazlı yetkilendirme (Hasta / Doktor panelleri)</li>
-        <li>CRUD veri akışları ve dinamik raporlama</li>
+        <li>Oyun motoru mimarisiyle tasarlanmış yüksek performanslı .NET Web API backend</li>
+        <li>Hızlı hesaplama için In-Memory önbellek algoritmaları</li>
+        <li>React Native (Expo) ile dinamik animasyonlar ve akıcı mobil arayüz</li>
       </ul>
     </td>
   </tr>
@@ -161,12 +172,12 @@ Merhaba! Ben **Hüseyin Enes İpek**. Algoritma temellerinden modern dağıtık 
 ### 💡 Yazılım Prensipleri & Yaklaşımım
 
 - 📐 **Temiz Kod & Tasarım İlkeleri:** SOLID, DRY, KISS ve Clean Code pratiklerine bağlılık.
-- 🏗️ **Mimari Tercihler:** Clean Architecture, Domain-Driven Design (DDD) yaklaşımları, CQRS & Event-Driven modeller.
-- 🔐 **Güvenlik & Standartlar:** REST standartları, JWT tabanlı kimlik denetimi ve Swagger dokümantasyonu.
-- ⚡ **Verimlilik & Düşük Seviye:** Algoritmik karmaşıklık (Big-O) analizi ve doğru veri yapısı seçimi.
+- 🏗️ **Mimari Tercihler:** Dağıtık Mikroservisler, Clean Architecture, CQRS & Event-Driven (RabbitMQ) modeller.
+- 🔐 **Güvenlik & Standartlar:** RESTful standartlar, JWT/Keycloak kimlik denetimi ve Swagger dokümantasyonu.
+- ⚡ **Verimlilik & Ölçeklenebilirlik:** Yüksek performanslı bellek içi önbellekleme (In-Memory / Redis) ve konteynerizasyon (Docker).
 
 ---
 
 <div align="center">
-  <sub>⭐ Hüseyin Enes İpek'in projelerini incelediğiniz için teşekkürler!</sub>
+  <sub>⭐ Hüseyin Enes İpek'in profilini ziyaret ettiğiniz için teşekkürler!</sub>
 </div>
