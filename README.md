@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=007ACC&center=true&vCenter=true&width=650&lines=Hi+There!+I'm+H%C3%BCseyin+Enes+%C4%B0pek+%F0%9F%91%8B;Full-Stack+.NET+%26+Microservices+Developer;C%23+%7C+ASP.NET+Core+%7C+Angular+%7C+React;Low-Level+C+%7C+Algorithms+%26+System+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=007ACC&center=true&vCenter=true&width=650&lines=Hi+There!+I'm+H%C3%BCseyin+Enes+%C4%B0pek+%F0%9F%91%8B;Full-Stack+.NET+%26+Microservices+Developer;C%23+%7C+ASP.NET+Core+%7C+Angular+%7C+React" alt="Typing SVG" />
 
   <p align="center">
     <b>Dağıtık mimariler, modern backend ekosistemleri ve performans odaklı algoritmik çözümler üreten yazılım geliştirici.</b>
