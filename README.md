@@ -154,20 +154,7 @@ Merhaba! Ben **Hüseyin Enes İpek**. Dağıtık mikroservis mimarilerinden yapa
   </tr>
 </table>
 
----
 
-### 📊 GitHub İstatistikleri
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enes1517&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enes1517&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="165" alt="Top Languages" />
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enes1517&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
-</div>
-
----
 
 ### 💡 Yazılım Prensipleri & Yaklaşımım
 
