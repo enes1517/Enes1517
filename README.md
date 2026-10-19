@@ -159,7 +159,7 @@ Merhaba! Ben **Hüseyin Enes İpek**. Dağıtık mikroservis mimarilerinden yapa
 ### 💡 Yazılım Prensipleri & Yaklaşımım
 
 - 📐 **Temiz Kod & Tasarım İlkeleri:** SOLID, DRY, KISS ve Clean Code pratiklerine bağlılık.
-- 🏗️ **Mimari Tercihler:** Dağıtık Mikroservisler, Clean Architecture, CQRS & Event-Driven (RabbitMQ) modeller.
+- 🏗️ **Mimari Tercihler:** Dağıtık Mikroservisler, Clean Architecture,N-Tier Architecture, CQRS & Event-Driven (RabbitMQ) modeller.
 - 🔐 **Güvenlik & Standartlar:** RESTful standartlar, JWT/Keycloak kimlik denetimi ve Swagger dokümantasyonu.
 - ⚡ **Verimlilik & Ölçeklenebilirlik:** Yüksek performanslı bellek içi önbellekleme (In-Memory / Redis) ve konteynerizasyon (Docker).
 
